@@ -1,0 +1,10 @@
+http://praveen:pr%40v33n@192.168.11.231:3128/
+
+SET HTTP_PROXY=http://yourproxyserver:yourproxyport
+
+SET HTTP_PROXY=http://praveen:pr%40v33n@192.168.11.231:3128
+
+
+
+
+bower install jquery
